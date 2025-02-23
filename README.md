@@ -1,6 +1,7 @@
 # Grav-Inversion
 Gravity inversion using the Reg-UNet network
 
+# Results comparison demonstrating SOTA in gravity inversion
 
 # References:
 1. Huang, R., Liu, S., Qi, R., & Zhang, Y. (2021). Deep learning 3D sparse inversion of gravity data. Journal of Geophysical Research: Solid Earth, 126(11), e2021JB022476.
