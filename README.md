@@ -2,19 +2,18 @@
 Gravity inversion using the Reg-UNet network
 
 # 📂 Project Structure
-```bash
+```
 📦 Grav-Inversion/
 ├── 📁 data/                 # Dataset storage  
 ├── 📁 models/               # Trained model checkpoints    
 ├── 🚀 train.py              # Main training script  
-├── 🏗️ model.py              # U-Net model architecture  
+├── 🏗️ model.py              # Reg-Unet model architecture  
 ├── 📜 dataset.py            # Dataset loading & DataLoader  
 ├── 📉 loss.py               # Loss functions (Dice loss, etc.)  
 ├── ⚙️ config.py             # Hyperparameters & configuration  
 ├── 📄 requirements.txt       # List of dependencies  
 ├── 📜 README.md              # Project documentation  
-
-
+```
 
 
 # Results comparison demonstrating SOTA in gravity inversion
