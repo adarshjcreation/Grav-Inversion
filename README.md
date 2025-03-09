@@ -3,10 +3,7 @@ Gravity inversion using the Reg-UNet network
 
 📦 reg_unet_project/
 ├── 📁 data/                 # Dataset storage  
-├── 📁 models/               # Trained model checkpoints  
-├── 📁 utils/                # Helper functions  
-│   ├── 🛠️ helpers.py         # Model saving, loading, seed setting  
-│   ├── 🎨 visualization.py   # Training loss & predictions plotting  
+├── 📁 models/               # Trained model checkpoints    
 ├── 🚀 train.py              # Main training script  
 ├── 🏗️ model.py              # U-Net model architecture  
 ├── 📜 dataset.py            # Dataset loading & DataLoader  
@@ -14,7 +11,7 @@ Gravity inversion using the Reg-UNet network
 ├── ⚙️ config.py             # Hyperparameters & configuration  
 ├── 📄 requirements.txt       # List of dependencies  
 ├── 📜 README.md              # Project documentation  
-└── 🚫 .gitignore             # Ignoring unnecessary files  
+
 
 
 
