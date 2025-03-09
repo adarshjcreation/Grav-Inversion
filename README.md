@@ -1,16 +1,20 @@
 # Grav-Inversion
 Gravity inversion using the Reg-UNet network
 
-reg_unet_project/
-│── data/                        # Folder for dataset
-│── models/                      # Folder for trained models
-│── utils/                        # Folder for utility functions
-│── train.py                     # Main training script
-│── model.py                     # U-Net model implementation
-│── dataset.py                   # Dataset and Dataloader setup
-│── config.py                     # Hyperparameters and config settings
-│── requirements.txt              # Dependencies (for pip install)
-│── README.md                     # Explanation of the project
+📦 reg_unet_project/
+├── 📁 data/                 # Dataset storage  
+├── 📁 models/               # Trained model checkpoints  
+├── 📁 utils/                # Helper functions  
+│   ├── 🛠️ helpers.py         # Model saving, loading, seed setting  
+│   ├── 🎨 visualization.py   # Training loss & predictions plotting  
+├── 🚀 train.py              # Main training script  
+├── 🏗️ model.py              # U-Net model architecture  
+├── 📜 dataset.py            # Dataset loading & DataLoader  
+├── 📉 loss.py               # Loss functions (Dice loss, etc.)  
+├── ⚙️ config.py             # Hyperparameters & configuration  
+├── 📄 requirements.txt       # List of dependencies  
+├── 📜 README.md              # Project documentation  
+└── 🚫 .gitignore             # Ignoring unnecessary files  
 
 
 
