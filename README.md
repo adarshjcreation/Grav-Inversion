@@ -2,6 +2,7 @@
 Gravity inversion using the Reg-UNet network
 
 # 📂 Project Structure
+```bash
 📦 Grav-Inversion/
 ├── 📁 data/                 # Dataset storage  
 ├── 📁 models/               # Trained model checkpoints    
