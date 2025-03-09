@@ -1,6 +1,19 @@
 # Grav-Inversion
 Gravity inversion using the Reg-UNet network
 
+reg_unet_project/
+│── data/                        # Folder for dataset
+│── models/                      # Folder for trained models
+│── utils/                        # Folder for utility functions
+│── train.py                     # Main training script
+│── model.py                     # U-Net model implementation
+│── dataset.py                   # Dataset and Dataloader setup
+│── config.py                     # Hyperparameters and config settings
+│── requirements.txt              # Dependencies (for pip install)
+│── README.md                     # Explanation of the project
+
+
+
 # Results comparison demonstrating SOTA in gravity inversion
 
 # References:
