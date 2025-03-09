@@ -7,7 +7,7 @@ from loss import my_loss
 from config import *
 import wandb
 
-wandb.init(project="Unet-Training")
+wandb.init(project="Reg-Unet-Training")
 
 # Load Data
 tra_x, tra_y = load_data(DATA_PATH, 20000)
