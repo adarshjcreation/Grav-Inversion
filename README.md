@@ -1,7 +1,8 @@
 # Grav-Inversion
 Gravity inversion using the Reg-UNet network
 
-📦 reg_unet_project/
+📂 Project Structure
+📦 Grav-Inversion/
 ├── 📁 data/                 # Dataset storage  
 ├── 📁 models/               # Trained model checkpoints    
 ├── 🚀 train.py              # Main training script  
