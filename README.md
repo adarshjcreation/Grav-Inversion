@@ -14,7 +14,10 @@ Gravity inversion using the Reg-UNet network
 ├── 📄 requirements.txt       # List of dependencies  
 ├── 📜 README.md              # Project documentation  
 ```
+## 📊 Model Architecture  
+Here is a visualization of our **Reg-UNet model** used for gravity inversion:
 
+![Reg-UNet Model Architecture](assets/model_arc.png)
 
 # Results comparison demonstrating SOTA in gravity inversion
 
