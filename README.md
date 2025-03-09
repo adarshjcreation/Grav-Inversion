@@ -1,7 +1,7 @@
 # Grav-Inversion
 Gravity inversion using the Reg-UNet network
 
-# 📂 Project Structure
+# 📂 Structure
 ```
 📦 Grav-Inversion/
 ├── 📁 data/                 # Dataset storage  
