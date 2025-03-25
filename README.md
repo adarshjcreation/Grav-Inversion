@@ -20,7 +20,7 @@ Here is a visualization of our **Reg-UNet model** used for gravity inversion:
 ![Reg-UNet Model Architecture](assets/model_arc.png)
 
 
-# Results comparison demonstrating SOTA in gravity inversion
+# Comparison of Results Highlighting SOTA in Gravity Inversion
 
 # References:
 1. Huang, R., Liu, S., Qi, R., & Zhang, Y. (2021). Deep learning 3D sparse inversion of gravity data. Journal of Geophysical Research: Solid Earth, 126(11), e2021JB022476.
